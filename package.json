@@ -1,0 +1,22 @@
+{
+    "name": "com.hypergnosys.physics-utilities",
+    "version": "1.0.0",
+    "displayName": "HGPhysicsUtilities",
+    "description": " Utilities for Collisions and Raycasts",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGPhysicsUtilities",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGPhysicsUtilities",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGPhysicsUtilities",
+    "keywords": [
+      "HyperGnosys",
+      "Physics Utilities"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
